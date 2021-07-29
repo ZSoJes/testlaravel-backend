@@ -8,10 +8,11 @@
 composer global require "laravel/installer"
 ```
 
-#Recuerda modifcar el .env para el acceso a BBDD
+
+# Recuerda modifcar el .env para el acceso a BBDD
 
 
-###Otros comandos a ejecutar
+## Por ultimo ejecutar en este orden los comandos:
 ```
 composer install
 php artisan migrate 
